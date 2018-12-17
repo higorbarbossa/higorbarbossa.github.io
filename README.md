@@ -10,6 +10,8 @@ Castanhal/PA
 
 **E-mail:** bsi.higor@gmail.com
 
+**Site:** https://higorbarbossa.github.io/
+
 **Linkedin:** [https://www.linkedin.com/in/higorbs/](https://www.linkedin.com/in/higorbs/)
 
 **Github:** higorbarbossa
